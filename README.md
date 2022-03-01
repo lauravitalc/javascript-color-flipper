@@ -1,2 +1,2 @@
 # javascript-projetos
-Projetos de Javascript realizados por mim, com ajuda do FreeCodeCamp no Youtube.
+Feito através do tutorial "Build 15 JavaScript Projects" (Color Flipper) do Free Code Camp.
